@@ -1,0 +1,8 @@
+# Comments
+region: us-east-1
+name: go_lambda_example
+role: 
+handler: main
+runtime: go1.x
+bucket: 
+timeout: 3
